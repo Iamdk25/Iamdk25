@@ -14,11 +14,9 @@ I turn messy ideas into useful, memorable software. I'm a software engineering s
 
 ### Selected work
 
-| Project | What I built | Explore |
-| :-- | :-- | :-- |
-| **SkillSharp AI** | Mock interviews with AI-generated questions, speech input, and feedback. | [View code →](https://github.com/Iamdk25/skill-sharp-ai) |
-| **EERIS** | A team-built expense and reimbursement tool with receipts, approval flows, and reports. | [View code →](https://github.com/deshninad/EERIS) |
-| **3D Portfolio** | An interactive portfolio that makes exploring my work feel like exploring a space. | [Live site →](https://iamdk25.github.io/3d_personal_portfolio/) · [Code →](https://github.com/Iamdk25/3d_personal_portfolio) |
+- **[SkillSharp AI →](https://github.com/Iamdk25/skill-sharp-ai)** Mock interviews with AI-generated questions, speech input, and feedback.
+- **[EERIS →](https://github.com/deshninad/EERIS)** A team-built expense and reimbursement tool with receipts, approval flows, and reports.
+- **[3D Portfolio →](https://iamdk25.github.io/3d_personal_portfolio/)** An interactive portfolio that makes exploring my work feel like exploring a space. [Source code](https://github.com/Iamdk25/3d_personal_portfolio).
 
 ### What I work with
 
